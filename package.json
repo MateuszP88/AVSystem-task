@@ -1,0 +1,26 @@
+{
+  "name": "avsystem-task",
+  "version": "1.0.0",
+  "description": "e2e tests for recruitement page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateuszP88/AVSystem-task.git"
+  },
+  "keywords": [
+    "recruitment",
+    "AVSystem"
+  ],
+  "author": "Mateusz Puczylowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MateuszP88/AVSystem-task/issues"
+  },
+  "homepage": "https://github.com/MateuszP88/AVSystem-task#readme",
+  "devDependencies": {
+    "cypress": "^13.2.0"
+  }
+}
