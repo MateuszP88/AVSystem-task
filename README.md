@@ -1,8 +1,8 @@
 HOW TO RUN TESTS IN CYPRESS
 
-# 1. Install VS Code
+# Install VS Code
 
-# 2. Install Node.js
+# Install Node.js
 For Windows: Instruction is on page https://phoenixnap.com/kb/install-node-js-npm-on-windows
 For MacOS: Instruction is on page  https://nodesource.com/blog/installing-nodejs-tutorial-mac-os-x/
 
